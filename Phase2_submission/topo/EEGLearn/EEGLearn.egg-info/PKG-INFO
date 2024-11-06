@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: EEGLearn
+Version: 1.11
+Summary: Representation learning from EEG
+Home-page: https://github.com/pbashivan/EEGLearn
+Author: Pouya Bashivan
+License: GNU GENERAL PUBLIC LICENSE
+License-File: LICENSE
